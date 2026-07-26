@@ -6,6 +6,7 @@ I am a Data Science Learner, currently building my skills in Python, Statistics,
 I'm on a journey to transition into a Data Science role — learning through courses, hands-on projects, and consistent daily practice.
 
 Skills: 
+
 ● Python
 
 ● Statistics 
