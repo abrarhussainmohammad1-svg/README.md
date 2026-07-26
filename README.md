@@ -1,4 +1,4 @@
-# README.md
+^# README.md
 Hi there 👋, My name is Mohammad Abrar 
 
 I am a Data Science Learner, currently building my skills in Python, Statistics, and Machine Learning.
@@ -29,7 +29,6 @@ Skills:
         
 ● Google Colab
 
-📚 [https://intellipaat.com/?loggedin]
 
 📧 Email: abrarhussainmohammad1@gmail.com 
 
